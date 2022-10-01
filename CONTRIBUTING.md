@@ -15,7 +15,7 @@ git clone  https://github.com/<your_user_name>/hacktoberfest_2022.git
 **3.** Navigate to the project directory :file_folder: .
 
 ```
-cd dhan-manager
+cd hacktoberfest_2022
 ```
 
 **4.** Add a reference(remote) to the original repository.
