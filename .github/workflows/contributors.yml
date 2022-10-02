@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - uses: GDSC-IETDAVV/hacktoberfest_2022@main
+    - uses: GDSC-IETDAVV/hacktoberfest_2022/main@v1
       with:
         CONTRIBUTOR: '## Contributors'
         COLUMN_PER_ROW: '6'
