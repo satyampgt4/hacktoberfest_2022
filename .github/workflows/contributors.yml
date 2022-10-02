@@ -3,14 +3,16 @@ on:
     pull_request:
         types:
             - closed
+        branches: 
+            -'saurabh/**'
     pull_request_target:
         types: 
             - closed
+        branches:
+            - 'saurabh/**'
     push: 
         branches: 
         - 'saurabh/**'
-#     issues:
-#      types: [
 
 jobs:
   add-contributors:
