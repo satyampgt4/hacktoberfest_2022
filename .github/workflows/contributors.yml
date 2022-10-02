@@ -4,15 +4,15 @@ on:
         types:
             - closed
         branches: 
-            -'saurabh/**'
+            -'main/**'
     pull_request_target:
         types: 
             - closed
         branches:
-            - 'saurabh/**'
-    push: 
-        branches: 
-        - 'saurabh/**'
+            - 'main/**'
+#     push: 
+#         branches: 
+#         - 'main/**'
 
 jobs:
   add-contributors:
