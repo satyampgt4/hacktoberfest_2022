@@ -118,5 +118,5 @@ Steps for adding your name below
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-Contributions of any kind welcome!
+<!-- Contributions of any kind welcome! -->
 
