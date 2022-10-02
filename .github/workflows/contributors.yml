@@ -2,10 +2,13 @@ name: Add contributors
 on:
     pull_request:
         types:
-        - closed
-#     push: 
-#         branches: 
-#         - 'saurabh'
+            - closed
+    pull_request_target:
+        types: 
+            - closed
+    push: 
+        branches: 
+        - 'saurabh/**'
 #     issues:
 #      types: [
 
