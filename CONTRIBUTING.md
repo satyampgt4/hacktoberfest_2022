@@ -2,7 +2,7 @@
 
 **🌟.** Star🌟 the repository to appreciate the work.
 
-**1.** Fork [this](https://github.com/GDSC-IETDAVV/hacktoberfest_2022.git) repository.
+**1.* Fork [this](https://github.com/GDSC-IETDAVV/hacktoberfest_2022.git) repository.
 
 ![step1](https://user-images.githubusercontent.com/72425181/122670266-be43ee80-d1de-11eb-9330-8d07ce2bd7ab.png)
 
